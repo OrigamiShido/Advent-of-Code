@@ -67,6 +67,7 @@ int main(void)
 	chars = open();
 	read(chars, origin);
 	result=process(origin);
+	fclose(chars);
 	printf("结果：%d", result);
 	return 0;
 }
