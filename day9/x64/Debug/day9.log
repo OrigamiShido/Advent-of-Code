@@ -1,7 +1,1 @@
-﻿  day9.c
-C:\Users\Admin\source\repos\Advent of Code\day9\day9.c(21,12): warning C4047: “return”:“FILE *”与“int”的间接级别不同
-C:\Users\Admin\source\repos\Advent of Code\day9\day9.c(46,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Admin\source\repos\Advent of Code\day9\day9.c(69,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Admin\source\repos\Advent of Code\day9\day9.c(93,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Admin\source\repos\Advent of Code\day9\day9.c(117,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  day9.vcxproj -> C:\Users\Admin\source\repos\Advent of Code\x64\Debug\day9.exe
+﻿

@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Admin\source\repos\Advent of Code\test\test.c(15,16): warning C4129: “m”: 不可识别的字符转义序列
+  test.vcxproj -> C:\Users\Admin\source\repos\Advent of Code\x64\Debug\test.exe
